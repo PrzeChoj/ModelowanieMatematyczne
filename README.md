@@ -15,6 +15,8 @@ Zadania przewidziane do robienia na zajęciach należy wykonać i plik `.R` wys�
 
 ### Terminarz
 
+Zajęcia odbywają się w godzinach 14:15 - 15:45 oraz 15:50 - 17:20.
+
 |        Numer zajęć        |Data                          |Temat zajęć                         |
 |--------------|-------------------------------|-----------------------------|
 |1.|2024.05.14| Modele liniowe w sytuacji znanych przekształceń oraz w przypadku nieznanych przekształceń |
