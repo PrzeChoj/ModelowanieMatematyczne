@@ -21,8 +21,8 @@ Zajęcia odbywają się w godzinach 14:15 - 15:45 oraz 15:50 - 17:20.
 |--------------|-------------------------------|-----------------------------|
 |1.|2024.05.14| Modele liniowe w sytuacji znanych przekształceń oraz w przypadku nieznanych przekształceń |
 |2.|2024.05.21|Jakość predykcji poza zbiorem uczącym; Analiza istotności zmiennych|
-|3.|2024.05.28||
-|4.|2024.06.04||
+|3.|2024.05.28|wartości odstające, wpływowe, odległość Cooka; VIF; Box-Cox; AIC, BIC|
+|4.|2024.06.04|Regresja logistyczna - klasyfikacja|
 |5.|2024.06.11| Kolokwium na wykładzie; lab się odbywają normalnie |
 
 ### Kontakt z prowadzącym
